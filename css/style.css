@@ -28,7 +28,7 @@ body *{
     flex-direction: column;
 }
 .left h1{
-    font: 3vw;
+    font-size: 3vw;
     color: #C9ADFF;
 }
 .right{
