@@ -32,8 +32,8 @@ body *{
     color: #C9ADFF;
 }
 .right{
-    width: 50vw;
-    height: 100vh;
+    width: 60vw;
+    height: 120vh;
     display: flex;
     justify-content: center;
     align-items: center;
